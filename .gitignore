@@ -1,0 +1,13 @@
+# Системный мусор Jupyter и Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Виртуальные окружения
+venv/
+.env/
+
+# Если в задании сказано НЕ пушить сырые данные (проверь TASK.md):
+data/
+
+TASK.md
