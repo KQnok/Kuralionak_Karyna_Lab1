@@ -11,3 +11,5 @@ venv/
 data/
 
 TASK.md
+
+*.parquet
